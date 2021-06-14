@@ -1,0 +1,7 @@
+primero paso: ejecutar el script en  bd sql server.
+segundo paso: abrir carpeta ejemplo01 modificar campos de conexion en archivo applicatrion.properties la cual esta dentro de
+C:\Users\Desarrollo\Desktop\Proyecto final Angular\Backend\ejemplo01\src\main\resource
+tercer paso: ejecutar el proyecto como spring boot
+cuarto paso: abrir proyecto angular con el visual code 
+quinto paso: escribir npm install en la terminal
+sexto paso: ejecutar el proyecto angular y verlo en el navegador
